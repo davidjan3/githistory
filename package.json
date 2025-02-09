@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "devDependencies": {
     "@types/node": "^22.13.0"
+    "tsx": "^4.19.2"
   }
 }
